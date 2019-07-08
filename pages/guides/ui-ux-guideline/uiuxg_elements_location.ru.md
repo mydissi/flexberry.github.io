@@ -18,11 +18,11 @@ summary: Расположение основных элементов.
 
 Структура шапки представлена на следующем рисунке:
 
-![Структура шапки](../../../images/pages/guides/ui-ux-guideline/uiuxg_elements_location/header scheme.png)
+![Структура шапки](../../../images/pages/guides/ui-ux-guideline/uiuxg_elements_location/header_scheme.png)
 
 Пример реализации шапки с открытым списком настроек пользователя:
 
-![Пример реализации шапки](../../../images/pages/guides/ui-ux-guideline/uiuxg_elements_location/header example.png)
+![Пример реализации шапки](../../../images/pages/guides/ui-ux-guideline/uiuxg_elements_location/header_example.png)
 
 
 ## Подвал
