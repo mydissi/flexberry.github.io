@@ -36,10 +36,10 @@ summary: Расположение основных элементов.
 Расположение футера фиксировано и находится внизу панели навигации. 
 На картинке представлен общий вид подвала относительно сайдбара
 
-![Подвал](../../../images/pages/guides/ui-ux-guideline/footer_in_sidebar/4.png)
+![Подвал](../../../images/pages/guides/ui-ux-guideline/uiuxg_elements_location/footer_in_sidebar.png)
 
 Сам подвал
 
-![Подвал](../../../images/pages/guides/ui-ux-guideline/footer/4.png)
+![Подвал](../../../images/pages/guides/ui-ux-guideline/uiuxg_elements_location/footer.png)
 
 
